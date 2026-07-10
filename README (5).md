@@ -4,9 +4,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/veerupakshi-yashwanthsenav/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:vyashwanthsena@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&style=for-the-badge&color=58A6FF" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=yash176A&style=for-the-badge&color=58A6FF" alt="Profile views"/>
 </p>
 
 <table align="center">
@@ -50,11 +50,11 @@ Every number in these READMEs was measured, every behavior claimed is tested, an
 
 | Repo | What it shows | The one detail worth clicking for |
 |---|---|---|
-| [drift-sentinel](https://github.com/YOUR-GITHUB-USERNAME/drift-sentinel) | Statistical drift detection as a FastAPI service | The test suite caught a real KS-test false positive; the fix is a commit you can read |
-| [rag-evalkit](https://github.com/YOUR-GITHUB-USERNAME/rag-evalkit) | Offline-first RAG evaluation with CI quality gates | Zero-dependency core; its own CI gates on `mrr=0.9` using the tool itself |
-| [agentic-extract](https://github.com/YOUR-GITHUB-USERNAME/agentic-extract) | Self-correcting multi-agent extraction on LangGraph | Validator errors literally become the next attempt's prompt feedback, provably, in tests |
-| [attention-lab](https://github.com/YOUR-GITHUB-USERNAME/attention-lab) | Transformer from scratch in PyTorch | Causality proven by gradient, parity with `nn.MultiheadAttention` to 1e-5 |
-| [tabular-ml-pipeline](https://github.com/YOUR-GITHUB-USERNAME/tabular-ml-pipeline) | Gated ETL, tuned XGBoost, MLflow tracking | Training physically cannot accept data that failed the quality gate |
+| [drift-sentinel](https://github.com/yash176A/drift-sentinel) | Statistical drift detection as a FastAPI service | The test suite caught a real KS-test false positive; the fix is a commit you can read |
+| [rag-evalkit](https://github.com/yash176A/rag-evalkit) | Offline-first RAG evaluation with CI quality gates | Zero-dependency core; its own CI gates on `mrr=0.9` using the tool itself |
+| [agentic-extract](https://github.com/yash176A/agentic-extract) | Self-correcting multi-agent extraction on LangGraph | Validator errors literally become the next attempt's prompt feedback, provably, in tests |
+| [attention-lab](https://github.com/yash176A/attention-lab) | Transformer from scratch in PyTorch | Causality proven by gradient, parity with `nn.MultiheadAttention` to 1e-5 |
+| [tabular-ml-pipeline](https://github.com/yash176A/tabular-ml-pipeline) | Gated ETL, tuned XGBoost, MLflow tracking | Training physically cannot accept data that failed the quality gate |
 
 ## 🎲 Outside the code
 
@@ -64,7 +64,7 @@ Every number in these READMEs was measured, every behavior claimed is tested, an
 ## 🤝 Quick connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+  <a href="https://www.linkedin.com/in/veerupakshi-yashwanthsenav/">
     <img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=58A6FF" alt="LinkedIn"/>
   </a>
   &nbsp;
