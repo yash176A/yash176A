@@ -56,10 +56,6 @@ Every number in these READMEs was measured, every behavior claimed is tested, an
 | [attention-lab](https://github.com/yash176A/attention-lab) | Transformer from scratch in PyTorch | Causality proven by gradient, parity with `nn.MultiheadAttention` to 1e-5 |
 | [tabular-ml-pipeline](https://github.com/yash176A/tabular-ml-pipeline) | Gated ETL, tuned XGBoost, MLflow tracking | Training physically cannot accept data that failed the quality gate |
 
-## 🎲 Outside the code
-
-<!-- Fill this with your real interests, one emoji row, e.g.: ♟️ chess · 🏏 cricket · 🎧 lo-fi while debugging -->
-<!-- Delete the section if you'd rather keep it strictly professional -->
 
 ## 🤝 Quick connect
 
