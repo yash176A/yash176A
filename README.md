@@ -12,7 +12,7 @@
 <table align="center">
   <tr>
     <td align="center"><b>⏳ 4+ years</b><br/><sub>ML in production</sub></td>
-    <td align="center"><b>📦 5 repos</b><br/><sub>tested, benchmarked, documented</sub></td>
+    <td align="center"><b>📦 7+ repos</b><br/><sub>tested, benchmarked, documented</sub></td>
     <td align="center"><b>🏆 3 certifications</b><br/><sub>LangChain · Python DS · Power BI</sub></td>
     <td align="center"><b>🎓 MS in IT</b><br/><sub>University of Cincinnati, 2025</sub></td>
   </tr>
